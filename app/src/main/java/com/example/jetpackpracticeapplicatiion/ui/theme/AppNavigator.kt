@@ -8,6 +8,8 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.jetpackpracticeapplicatiion.ui.theme.screens.ProductDetailScreen
 
+//import com.example.jetpackpracticeapplicatiion.ui.theme.screens.ProductDetailScreen
+
 @Composable
 fun AppNavigator() {
     val navController = rememberNavController()
